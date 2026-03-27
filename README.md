@@ -50,3 +50,7 @@ Caso você queira baixar o código para estudar ou modificar, o processo é bem 
 Desenvolvido com dedicação por **Mateus Anchieta**.
 
 Se você gostou do projeto, sinta-se à vontade para deixar uma ⭐ no repositório, abrir uma *issue* ou enviar um *pull request* com melhorias!
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
