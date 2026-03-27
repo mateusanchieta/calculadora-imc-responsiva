@@ -1,38 +1,52 @@
-# Calculadora de IMC Responsiva ⚖️
+# ⚖️ Calculadora de IMC Responsiva
 
-Uma aplicação web simples e responsiva para calcular o Índice de Massa Corporal (IMC) do usuário, desenvolvida como parte dos meus estudos de Front-end.
+Uma aplicação web interativa e amigável para calcular o Índice de Massa Corporal (IMC), desenvolvida para consolidar conhecimentos em desenvolvimento Front-end.
 
-## 📝 Sobre o Projeto
+🌐 **Teste o projeto agora mesmo:** [Clique aqui para acessar a aplicação online](https://mateusanchieta.github.io/calculadora-imc-responsiva/)
 
-Este projeto é uma calculadora interativa onde o usuário insere seu peso e altura, e o sistema retorna o valor do seu IMC, junto com a classificação (Ex: Abaixo do peso, Peso normal, Sobrepeso, etc.). O layout foi construído para se adaptar a diferentes tamanhos de tela (mobile e desktop).
+---
+
+## 📖 Sobre o Projeto
+
+A **Calculadora de IMC** é uma ferramenta simples e direta. O usuário insere seus dados de peso e altura e, com um clique, o sistema processa as informações e exibe não apenas o valor numérico do IMC, mas também a classificação em que o usuário se encontra (como "Abaixo do peso", "Peso normal", "Sobrepeso", etc.), de acordo com os padrões da Organização Mundial da Saúde (OMS).
+
+O grande foco deste projeto foi criar uma interface limpa e garantir a **responsividade**, ou seja, fazer com que a calculadora funcione perfeitamente tanto na tela de um computador quanto na tela de um celular.
 
 ## ✨ Funcionalidades
 
-* Cálculo preciso do IMC baseado nos dados inseridos.
-* Classificação automática do resultado em categorias de saúde.
-* Design responsivo, funcionando bem em celulares e computadores.
-* Validação de campos para evitar cálculos com dados vazios.
+* **Cálculo Instantâneo:** Lógica matemática implementada para gerar o resultado exato do IMC.
+* **Feedback Visual:** Retorno claro da categoria de peso em que o usuário se enquadra.
+* **Design Responsivo:** Layout que se adapta a diferentes resoluções e dispositivos de forma fluida.
+* **Validação de Dados:** Prevenção de erros caso o usuário tente calcular sem preencher os campos corretamente.
 
-## 🚀 Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
-* **HTML5:** Estruturação do conteúdo.
-* **CSS3:** Estilização e responsividade (Media Queries).
-* **JavaScript:** Lógica de cálculo e manipulação do DOM.
+Este projeto foi construído utilizando as bases da web:
 
-## 🛠️ Como executar o projeto
+* **HTML5:** Para a semântica e estruturação dos elementos na página.
+* **CSS3:** Para a estilização visual, layout e media queries (responsividade).
+* **JavaScript:** Para a captura dos dados, cálculos matemáticos e atualização dinâmica da tela.
 
-Como é um projeto puramente Front-end (HTML, CSS e JS), você não precisa instalar nada complexo na sua máquina.
+## 💻 Como executar o projeto localmente
 
-1. Faça o clone deste repositório:
+Caso você queira baixar o código para estudar ou modificar, o processo é bem simples. Por ser uma aplicação estática, não é necessário instalar dependências.
+
+1. Faça o clone deste repositório no seu terminal:
    ```bash
    git clone [https://github.com/mateusanchieta/calculadora-imc-responsiva.git](https://github.com/mateusanchieta/calculadora-imc-responsiva.git)
+   ```
 
-   Abra a pasta do projeto no seu computador.
+2. Entre na pasta do projeto:
+   ```bash
+   cd calculadora-imc-responsiva
+   ```
 
-2. Dê um duplo clique no arquivo index.html para abri-lo no seu navegador de preferência.
+3. Dê um duplo clique no arquivo `index.html` para abri-lo no seu navegador padrão.
 
+---
 
 ## 👨‍💻 Autor
-Desenvolvido por: Mateus Anchieta.
 
-Sinta-se à vontade para se conectar comigo ou contribuir com o projeto!
+Desenvolvido com dedicação por **Mateus Anchieta**.
+
+Se você gostou do projeto, sinta-se à vontade para deixar uma ⭐ no repositório, abrir uma *issue* ou enviar um *pull request* com melhorias!
